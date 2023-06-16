@@ -1,4 +1,4 @@
-# api_login_jwtToken_mongodb
+# API_login_jwtToken_mongodb
 This is a RESTful API for user login implemented using Node.js, jsonwebtoken (JWT token validation), and Mongoose.
 
 ## Features
