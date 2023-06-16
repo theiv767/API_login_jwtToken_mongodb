@@ -12,7 +12,7 @@ This is a RESTful API for user login implemented using Node.js, jsonwebtoken (JW
 ## Getting Started
 
 #### 1. Clone the repository:
-- git clone [https://github.com/theiv767/api_login_jwtToken_mongodb](https://github.com/theiv767/api_login_jwtToken_mongodb)
+- git clone [https://github.com/theiv767/API_login_jwtToken_mongodb](https://github.com/theiv767/API_login_jwtToken_mongodb)
 
 #### 2. Install dependencies:
 - npm install
